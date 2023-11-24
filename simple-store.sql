@@ -1,3 +1,10 @@
+/*
+ *
+ * Simple Store Database Example
+ * github.com/skittlexyz
+ *
+ */
+
 /* Creating the database */
 CREATE DATABASE db_skt;
 
